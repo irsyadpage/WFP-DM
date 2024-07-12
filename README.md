@@ -5,8 +5,8 @@
 [In progress...]
 
 
-## Dataset Status
-The dataset for the WFP-DM technique is being revised for publication. The dataset will be released once the publication process is completed.
+## Dataset & Source Code Status
+The dataset and source code for the WFP-DM are currently being revised for publication. It will be released once the publication process is completed.
 
 
 ## Licensing
